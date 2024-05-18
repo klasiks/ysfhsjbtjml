@@ -1,0 +1,115 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "657d046a704131c5eb22acdc47e5349d",
+                "name": "Yusuf Has Hajib Terjimali1",
+                "artist": "",
+                "album": "",
+                "url": "static/Yusuf Has Hajib Terjimali/Yusuf Has Hajib Terjimali1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "657d046a704131c5eb22acdc47e5349d",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "e6d2bebb704111662706200f8a5a7da3",
+                "name": "Yusuf Has Hajib Terjimali2",
+                "artist": "",
+                "album": "",
+                "url": "static/Yusuf Has Hajib Terjimali/Yusuf Has Hajib Terjimali2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "e6d2bebb704111662706200f8a5a7da3",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "94d965207fb9e75a9369bb62614cc13a",
+                "name": "Yusuf Has Hajib Terjimali3",
+                "artist": "",
+                "album": "",
+                "url": "static/Yusuf Has Hajib Terjimali/Yusuf Has Hajib Terjimali3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "94d965207fb9e75a9369bb62614cc13a",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "6c9f8d712707da2d04f8e674d81c5b95",
+                "name": "Yusuf Has Hajib Terjimali4",
+                "artist": "",
+                "album": "",
+                "url": "static/Yusuf Has Hajib Terjimali/Yusuf Has Hajib Terjimali4.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "6c9f8d712707da2d04f8e674d81c5b95",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "88692df1d676e0c1c845592fd3376127",
+                "name": "Yusuf Has Hajib Terjimali5",
+                "artist": "",
+                "album": "",
+                "url": "static/Yusuf Has Hajib Terjimali/Yusuf Has Hajib Terjimali5.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "88692df1d676e0c1c845592fd3376127",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "b6da3be0efa36ee340bb9bd252e08fb4",
+                "name": "Yusuf Has Hajib Terjimali6",
+                "artist": "",
+                "album": "",
+                "url": "static/Yusuf Has Hajib Terjimali/Yusuf Has Hajib Terjimali6.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "b6da3be0efa36ee340bb9bd252e08fb4",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "9e684d00b8b6be3b67a5f7e8a52eb2a4",
+                "name": "Yusuf Has Hajib Terjimali7",
+                "artist": "",
+                "album": "",
+                "url": "static/Yusuf Has Hajib Terjimali/Yusuf Has Hajib Terjimali7.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "9e684d00b8b6be3b67a5f7e8a52eb2a4",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "9e686e48b1fd13d29e2a0a7c97ce76fe",
+                "name": "Yusuf Has Hajib Terjimali8",
+                "artist": "",
+                "album": "",
+                "url": "static/Yusuf Has Hajib Terjimali/Yusuf Has Hajib Terjimali8.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "9e686e48b1fd13d29e2a0a7c97ce76fe",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
